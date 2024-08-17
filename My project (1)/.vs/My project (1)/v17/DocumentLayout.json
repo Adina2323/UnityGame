@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\work related\\work\\facultate\\an iv\\sem 2\\grafica\\unity\\my project (1)\\assets\\scripts\\heartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\work related\\work\\facultate\\an iv\\sem 2\\grafica\\unity\\my project (1)\\assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\signallistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\signallistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\signalsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\signalsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\knocknack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knocknack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\roommove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roommove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\scriptableobject\\floatvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\floatvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\playerhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\pot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\challangercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challangercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\scripts\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\assets\\art\\battle\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\battle\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogManager.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\DialogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogManager.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\DialogManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogManager.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:50:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:58:01.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Dialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Dialog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:10:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCController.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:42:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:40:52.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomMove.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\RoomMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoomMove.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\RoomMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoomMove.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:45.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:55:56.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeartManager.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\HeartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartManager.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\HeartManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:04:18.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pot.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Pot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pot.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Pot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:46:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:48:44.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerHit.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\PlayerHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHit.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\PlayerHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:47:30.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalListener.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\SignalListener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SignalListener.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\SignalListener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SignalListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:38:23.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignalSender.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\SignalSender.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SignalSender.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\SignalSender.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SignalSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:35:31.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Knocknack.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Knocknack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knocknack.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Knocknack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knocknack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:53:00.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:30:59.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Log.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Log.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\Log.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Log.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:31:51.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FloatValue.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\ScriptableObject\\FloatValue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FloatValue.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\ScriptableObject\\FloatValue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FloatValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:06:01.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChallangerController.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\ChallangerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChallangerController.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\ChallangerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChallangerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:43:26.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BattleSystem.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\BattleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BattleSystem.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\BattleSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BattleSystem.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAewB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:04:44.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:42:30.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HPBar.cs",
+              "DocumentMoniker": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Art\\BAttle\\HPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\BAttle\\HPBar.cs",
+              "ToolTip": "D:\\Work Related\\Work\\FACULTATE\\An IV\\SEM 2\\Grafica\\Unity\\My project (1)\\Assets\\Art\\BAttle\\HPBar.cs",
+              "RelativeToolTip": "Assets\\Art\\BAttle\\HPBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:56:55.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
