@@ -17,3 +17,6 @@ This is a 2D pixel art RPG where you control a character in a world filled with 
 
 ## Assets
 The game uses free-to-use assets for the backgrounds and characters, keeping everything legal while still looking great.
+
+Full game presentation on the link below: 
+https://drive.google.com/file/d/10hrrQrEp40PFWdj6IZ1-LYNw13jkBpjC/view?usp=sharing
